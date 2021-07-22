@@ -13,7 +13,7 @@ canvas drawing web-based application
   
 ![image](https://user-images.githubusercontent.com/59110598/126701316-f5cf90cc-bd9c-45b8-ae84-a2d5b87a4714.png)
 
-*how we have applied the required design pattern*
+*#how we have applied the required design pattern*
 
  1. We used Shape Factory design pattern: Service Class is the shape factory for shapes to generate shapes and to make any operation on shapes(delete, copy…).
  2. We used singleton design pattern: to do only one object of service class .

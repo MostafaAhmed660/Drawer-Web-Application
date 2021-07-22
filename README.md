@@ -3,7 +3,7 @@ canvas drawing web-based application
 
 *The steps required to run your code
 
-  -1.Install Vuetify
+  -1.Install Vuetify<br/>
   -2.Install Axios
   -3.Run Back-end first so it runs on port 8080
   -4.Then Run Front-end so it runs on port 8081
